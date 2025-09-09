@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/3baa/prob/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/3baa/prob/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/3baa/prob/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/3baa/prob/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
